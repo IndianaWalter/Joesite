@@ -1,0 +1,18 @@
+
+html{
+    background: url("https://res.cloudinary.com/teepublic/image/private/s--BkZy5hdl--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_630,q_90,w_630/v1446220538/production/designs/180929_1.jpg")
+
+}
+
+p,h1,h2{
+    text-align:center;
+    color: white;
+}
+
+.hi{
+   border: 5px solid black;
+   padding: 5px;
+   border-radius: 10px;
+   background-color: rgba(0,0,0,0.5);
+   
+}
